@@ -25,4 +25,5 @@
  
  9. Популярні системи контролю версій: Git, Mercurial, Subversion
  
- 10.   
+ 10. Git. 
+ Основні команди: git status, git add <file>, git commit -m "changes", git checkout, git rebase
